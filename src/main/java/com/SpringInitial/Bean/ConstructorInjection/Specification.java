@@ -1,4 +1,4 @@
-package Bean.ConstructorInjection;
+package com.SpringInitial.Bean.ConstructorInjection;
 
 public class Specification {
     private String make;

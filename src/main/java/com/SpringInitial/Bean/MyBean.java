@@ -1,4 +1,4 @@
-package Bean;
+package com.SpringInitial.Bean;
 
 public class MyBean {
     private String message;

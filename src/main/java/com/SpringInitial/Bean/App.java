@@ -1,4 +1,4 @@
-package Bean;
+package com.SpringInitial.Bean;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

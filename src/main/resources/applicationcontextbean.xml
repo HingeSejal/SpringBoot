@@ -5,7 +5,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id="myBean" class="Bean.MyBean">
+    <bean id="myBean" class="com.SpringInitial.Bean.MyBean">
         <constructor-arg value="I am a first bean"/>
     </bean>
 </beans>
